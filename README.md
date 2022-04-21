@@ -1,2 +1,3 @@
 # SiteReceitas
-This is a project from University, do not mind the changes.
+## Esse trabalho foi Desenvolvido pelo Aluno: Gabriel Araújo Pedrosa | Matrícula: 2024715
+### Desenvolvimento plataformas Web | Prof. Bruno Lopes
